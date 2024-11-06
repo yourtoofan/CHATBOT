@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝗣𝗨𝗥𝗩𝗜 𝗖𝗛𝗔𝗧 」──
+    ──「 𝗭𝗢𝗬𝗨 𝗖𝗛𝗔𝗧 」──
 </h2>
 <p align="center">
   <img src="https://graph.org/file/437091ea5c8fb26a8abf8.jpg">
@@ -9,7 +9,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMPURVI/PURVI_CHAT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/yourtoofan/CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
